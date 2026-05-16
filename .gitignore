@@ -1,0 +1,8 @@
+# mantém notebooks, csv e wav
+!*.ipynb
+!*.csv
+!*.wav
+
+# mantém o gitignore e README (opcional, mas recomendado)
+!.gitignore
+!README.md
